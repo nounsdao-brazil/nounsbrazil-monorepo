@@ -2,7 +2,7 @@
   "name": "@nouns/sdk",
   "version": "0.2.0",
   "description": "Useful tooling for interacting with the NounsBrazil protocol",
-  "author": "Nounders",
+  "author": "NoundersBrazil",
   "homepage": "https://nouns.wtf",
   "license": "GPL-3.0",
   "main": "dist/index.js",

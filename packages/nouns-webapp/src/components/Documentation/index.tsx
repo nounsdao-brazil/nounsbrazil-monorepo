@@ -92,7 +92,7 @@ const Documentation = () => {
                 </li>
                 <li>
                   <Trans>
-                    Nounders receive rewards in the form of NounsBrazil (10% of supply for first 5 years).
+                    NoundersBrazil receive rewards in the form of NounsBrazil (10% of supply for first 5 years).
                   </Trans>
                 </li>
               </ul>
@@ -151,10 +151,10 @@ const Documentation = () => {
               <p>
                 <Trans>
                   The proposal veto right was initially envisioned as a temporary solution to the
-                  problem of ‘51% attacks’ on the NounsBrazil DAO treasury. While Nounders initially
+                  problem of ‘51% attacks’ on the NounsBrazil DAO treasury. While NoundersBrazil initially
                   believed that a healthy distribution of NounsBrazil would be sufficient protection for
                   the DAO, a more complete understanding of the incentives and risks has led to
-                  general consensus within the Nounders, the NounsBrazil Foundation, and the wider
+                  general consensus within the NoundersBrazil, the NounsBrazil Foundation, and the wider
                   community that a more robust game-theoretic solution should be implemented before
                   the right is removed.
                 </Trans>
@@ -287,13 +287,13 @@ const Documentation = () => {
           </Accordion.Item>
           <Accordion.Item eventKey="7" className={classes.accordionItem}>
             <Accordion.Header className={classes.accordionHeader}>
-              <Trans>Nounder's Reward</Trans>
+              <Trans>NounderBrazil's Reward</Trans>
             </Accordion.Header>
             <Accordion.Body>
               <p>
                 <Trans>
-                  'Nounders' are the group of ten builders that initiated NounsBrazil. Here are the
-                  Nounders:
+                  'NoundersBrazil' are the group of ten builders that initiated NounsBrazil. Here are the
+                  NoundersBrazil:
                 </Trans>
               </p>
               <ul>
@@ -336,17 +336,17 @@ const Documentation = () => {
               </ul>
               <p>
                 <Trans>
-                  Because 100% of Noun auction proceeds are sent to NounsBrazil DAO, Nounders have chosen
+                  Because 100% of Noun auction proceeds are sent to NounsBrazil DAO, NoundersBrazil have chosen
                   to compensate themselves with NounsBrazil. Every 10th Noun for the first 5 years of the
                   project (Noun ids #0, #10, #20, #30 and so on) will be automatically sent to the
-                  Nounder's multisig to be vested and shared among the founding members of the
+                  NounderBrazil's multisig to be vested and shared among the founding members of the
                   project.
                 </Trans>
               </p>
               <p>
                 <Trans>
-                  Nounder distributions don't interfere with the cadence of 24 hour auctions. NounsBrazil
-                  are sent directly to the Nounder's Multisig, and auctions continue on schedule
+                  NounderBrazil distributions don't interfere with the cadence of 24 hour auctions. NounsBrazil
+                  are sent directly to the NounderBrazil's Multisig, and auctions continue on schedule
                   with the next available Noun ID.
                 </Trans>
               </p>

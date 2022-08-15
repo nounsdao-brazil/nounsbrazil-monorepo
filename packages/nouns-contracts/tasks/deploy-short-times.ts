@@ -80,7 +80,7 @@ task('deploy-short-times', 'Deploy all NounsBrazil contracts with short gov time
 
     if (!args.noundersdao) {
       console.log(
-        `Nounders DAO address not provided. Setting to deployer (${deployer.address})...`,
+        `NoundersBrazil DAO address not provided. Setting to deployer (${deployer.address})...`,
       );
       args.noundersdao = deployer.address;
     }

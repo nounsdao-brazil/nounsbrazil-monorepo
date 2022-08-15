@@ -131,7 +131,7 @@ const NoundersPage = () => {
     <Section fullWidth={true} className={classes.noundersPage}>
       <Col lg={{ span: 6, offset: 3 }}>
         <h2 style={{ marginBottom: '2rem' }}>
-          <Trans>The Nounders</Trans>
+          <Trans>The NoundersBrazil</Trans>
         </h2>
         <h3 style={{ marginBottom: '2rem' }}>
           <Trans>3.5 artists, 6.5 technologists</Trans>
@@ -141,21 +141,21 @@ const NoundersPage = () => {
           <BioCards min={5} max={10} />
         </Row>
         <h3>
-          <Trans>Nounders' Reward</Trans>
+          <Trans>NoundersBrazil' Reward</Trans>
         </h3>
         <p style={{ textAlign: 'justify' }}>
           <Trans>
             All Noun auction proceeds are sent to the NounsBrazil DAO. For this reason, we, the project's
-            founders (‘Nounders’) have chosen to compensate ourselves with NounsBrazil. Every 10th noun
+            founders (‘NoundersBrazil’) have chosen to compensate ourselves with NounsBrazil. Every 10th noun
             for the first 5 years of the project will be sent to our multisig (5/10), where it will
-            be vested and distributed to individual Nounders.
+            be vested and distributed to individual NoundersBrazil.
           </Trans>
         </p>
         <p style={{ textAlign: 'justify' }}>
           <Trans>
-            The Nounders reward is intended as compensation for our pre and post-launch
+            The NoundersBrazil reward is intended as compensation for our pre and post-launch
             contributions to the project, and to help us participate meaningfully in governance as
-            the project matures. Since there are 10 Nounders, after 5 years each Nounder could
+            the project matures. Since there are 10 NoundersBrazil, after 5 years each NounderBrazil could
             receive up to 1% of the Noun supply.
           </Trans>
         </p>

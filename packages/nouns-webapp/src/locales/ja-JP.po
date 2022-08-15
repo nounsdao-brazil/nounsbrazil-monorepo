@@ -19,8 +19,8 @@ msgstr ""
 "Last-Translator: \n"
 
 #: src/components/Documentation/index.tsx
-msgid "'Nounders' are the group of ten builders that initiated NounsBrazil. Here are the Nounders:"
-msgstr "「Nounders」とはNounsの創業に携わった10人の創業者のことであり、以下の人物で構成されています："
+msgid "'NoundersBrazil' are the group of ten builders that initiated NounsBrazil. Here are the NoundersBrazil:"
+msgstr "「NoundersBrazil」とはNounsの創業に携わった10人の創業者のことであり、以下の人物で構成されています："
 
 #: src/components/ByLineHoverCard/index.tsx
 msgid "... and {0} more"
@@ -30,7 +30,7 @@ msgstr "...そしてさらに3つ"
 msgid "100% of Noun auction proceeds are trustlessly sent to the treasury."
 msgstr "Nounオークションの売上は、第三者の介入無しで 100％トレジャリーに送られる仕組みになっています。"
 
-#: src/pages/Nounders/index.tsx
+#: src/pages/NoundersBrazil/index.tsx
 msgid "3.5 artists, 6.5 technologists"
 msgstr "3.5アーティスト、6.5技術者"
 
@@ -137,9 +137,9 @@ msgstr "反対"
 msgid "All Noun auction proceeds are sent to the"
 msgstr "すべてのNounオークションの収益は、"
 
-#: src/pages/Nounders/index.tsx
-msgid "All Noun auction proceeds are sent to the NounsBrazil DAO. For this reason, we, the project's founders (‘Nounders’) have chosen to compensate ourselves with NounsBrazil. Every 10th noun for the first 5 years of the project will be sent to our multisig (5/10), where it will be vested and distributed to individual Nounders."
-msgstr "Nounオークションの収益は全て NounsBrazil DAOに送られます。その為、我々、プロジェクトの創設者 (Nounders) はNounsで自らを補償することに決めました。 プロジェクトの最初の5年間の間は、毎回10体目のNounがマルチシグ(5/10) に送られた後、個々のナウンダーズに与えられ、配布されます。"
+#: src/pages/NoundersBrazil/index.tsx
+msgid "All Noun auction proceeds are sent to the NounsBrazil DAO. For this reason, we, the project's founders (‘NoundersBrazil’) have chosen to compensate ourselves with NounsBrazil. Every 10th noun for the first 5 years of the project will be sent to our multisig (5/10), where it will be vested and distributed to individual NoundersBrazil."
+msgstr "Nounオークションの収益は全て NounsBrazil DAOに送られます。その為、我々、プロジェクトの創設者 (NoundersBrazil) はNounsで自らを補償することに決めました。 プロジェクトの最初の5年間の間は、毎回10体目のNounがマルチシグ(5/10) に送られた後、個々のナウンダーズに与えられ、配布されます。"
 
 #: src/components/Documentation/index.tsx
 msgid "All NounsBrazil are members of NounsBrazil DAO."
@@ -179,7 +179,7 @@ msgid "Background"
 msgstr "背景"
 
 #: src/components/Documentation/index.tsx
-msgid "Because 100% of Noun auction proceeds are sent to NounsBrazil DAO, Nounders have chosen to compensate themselves with NounsBrazil. Every 10th Noun for the first 5 years of the project (Noun ids #0, #10, #20, #30 and so on) will be automatically sent to the Nounder's multisig to be vested and shared among the founding members of the project."
+msgid "Because 100% of Noun auction proceeds are sent to NounsBrazil DAO, NoundersBrazil have chosen to compensate themselves with NounsBrazil. Every 10th Noun for the first 5 years of the project (Noun ids #0, #10, #20, #30 and so on) will be automatically sent to the NounderBrazil's multisig to be vested and shared among the founding members of the project."
 msgstr "Nounオークションの収益の100%がNouns DAOに送られるため、Nounderは自分達をNounsで補償することに決めました。プロジェクトの最初の5年間の間、毎回10番目のNoun (Noun ID #0, #10, #20, #30 など) が自動的にNoundersのマルチシグに送られ、プロジェクトの創設メンバー達に与えられて、共有されます。"
 
 #: src/components/Bid/index.tsx
@@ -448,8 +448,8 @@ msgid "For"
 msgstr "賛成"
 
 #: src/components/NounderNounContent/index.tsx
-msgid "For this reason, we, the project's founders (‘Nounders’) have chosen to compensate ourselves with NounsBrazil. Every 10th Noun for the first 5 years of the project will be sent to our multisig (5/10), where it will be vested and distributed to individual Nounders."
-msgstr "その為、我々、プロジェクトの創設者 (Nounders) はNounsで自らを補償することに決めました。 プロジェクトの最初の5年間の間は、毎回10体目のNounがマルチシグ(5/10) に送られた後、個々のナウンダーズに与えられ、配布されます。"
+msgid "For this reason, we, the project's founders (‘NoundersBrazil’) have chosen to compensate ourselves with NounsBrazil. Every 10th Noun for the first 5 years of the project will be sent to our multisig (5/10), where it will be vested and distributed to individual NoundersBrazil."
+msgstr "その為、我々、プロジェクトの創設者 (NoundersBrazil) はNounsで自らを補償することに決めました。 プロジェクトの最初の5年間の間は、毎回10体目のNounがマルチシグ(5/10) に送られた後、個々のナウンダーズに与えられ、配布されます。"
 
 #: src/components/Footer/index.tsx
 msgid "Forums"
@@ -502,7 +502,7 @@ msgid "Holder changed from<0><1/></0> to <2><3/></2>"
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-#~ msgid "In addition to the precautions taken by Compound Governance, Nounders have given themselves a special veto right to ensure that no malicious proposals can be passed while the Noun supply is low. This veto right will only be used if an obviously harmful governance proposal has been passed, and is intended as a last resort."
+#~ msgid "In addition to the precautions taken by Compound Governance, NoundersBrazil have given themselves a special veto right to ensure that no malicious proposals can be passed while the Noun supply is low. This veto right will only be used if an obviously harmful governance proposal has been passed, and is intended as a last resort."
 #~ msgstr "コンパウンドガバナンスによる予防措置に加えて、Nounの供給量が少ない間に悪意のある議案が通らないように、Noundersは特別な拒否権を保有しています。この拒否権は、明らかに有害なガバナンスの提案が可決された場合にのみ行使され、最後の手段として使用されます。"
 
 #: src/components/Bid/index.tsx
@@ -572,23 +572,23 @@ msgid "Noun {0}"
 msgstr "Noun {0}"
 
 #: src/components/Documentation/index.tsx
-msgid "Nounder distributions don't interfere with the cadence of 24 hour auctions. NounsBrazil are sent directly to the Nounder's Multisig, and auctions continue on schedule with the next available Noun ID."
+msgid "NounderBrazil distributions don't interfere with the cadence of 24 hour auctions. NounsBrazil are sent directly to the NounderBrazil's Multisig, and auctions continue on schedule with the next available Noun ID."
 msgstr "Nounder配布により24時間オークションの頻度に影響が及ぶことはありません。 NounsはNounderのマルチシグに直接送られ、オークションは次の有効なNouns IDによって予定通り継続されます。"
 
 #: src/components/Documentation/index.tsx
-msgid "Nounder's Reward"
+msgid "NounderBrazil's Reward"
 msgstr "Nounderへの報酬"
 
 #: src/components/Documentation/index.tsx
-msgid "Nounders receive rewards in the form of NounsBrazil (10% of supply for first 5 years)."
+msgid "NoundersBrazil receive rewards in the form of NounsBrazil (10% of supply for first 5 years)."
 msgstr "Nounderには、Nounsという形で報酬が与えられます (最初の5年間は供給量の10％)。"
 
 #: src/components/Documentation/index.tsx
-#~ msgid "Nounders will proveably revoke this veto right when they deem it safe to do so. This decision will be based on a healthy Noun distribution and a community that is engaged in the governance process."
+#~ msgid "NoundersBrazil will proveably revoke this veto right when they deem it safe to do so. This decision will be based on a healthy Noun distribution and a community that is engaged in the governance process."
 #~ msgstr "Nounderは、安全であると判断した場合、この拒否権を無効にすることが出来ます。この決定は、健全なNounの分布と、ガバナンスプロセスに関与しているコミュニティに基づいて行われます。"
 
-#: src/pages/Nounders/index.tsx
-msgid "Nounders' Reward"
+#: src/pages/NoundersBrazil/index.tsx
+msgid "NoundersBrazil' Reward"
 msgstr "Nounderへの報酬"
 
 #: src/pages/Governance/index.tsx
@@ -863,12 +863,12 @@ msgstr "投票ありがとうございます。"
 msgid "The Noun Seeder contract is used to determine Noun traits during the minting process. The seeder contract can be replaced to allow for future trait generation algorithm upgrades. Additionally, it can be locked by the NounsBrazil DAO to prevent any future updates. Currently, Noun traits are determined using pseudo-random number generation:"
 msgstr "Nounシーダー契約は、ミントのプロセスでNounsの特徴を決定するために使用されます。シーダー契約は、今後の特徴生成アルゴリズムのアップグレードを可能にするために変更することができ、さらに、今後のアップデートを防ぐためにNouns DAOによってロックすることも可能です。現在、Nounsの特徴は擬似乱数生成を用い決められています。"
 
-#: src/pages/Nounders/index.tsx
-msgid "The Nounders"
-msgstr "Nounders"
+#: src/pages/NoundersBrazil/index.tsx
+msgid "The NoundersBrazil"
+msgstr "NoundersBrazil"
 
-#: src/pages/Nounders/index.tsx
-msgid "The Nounders reward is intended as compensation for our pre and post-launch contributions to the project, and to help us participate meaningfully in governance as the project matures. Since there are 10 Nounders, after 5 years each Nounder could receive up to 1% of the Noun supply."
+#: src/pages/NoundersBrazil/index.tsx
+msgid "The NoundersBrazil reward is intended as compensation for our pre and post-launch contributions to the project, and to help us participate meaningfully in governance as the project matures. Since there are 10 NoundersBrazil, after 5 years each NounderBrazil could receive up to 1% of the Noun supply."
 msgstr "Noundersの報酬は、プロジェクト開始前と開始後の貢献に対する対価として提供されるほか、プロジェクトが成熟するにつれ、ガバナンスに有意義に参加できるよう支援することも目的としています。Noundersは10人なので、5年後には各ナウンダーは最大でNounの供給量の1%を受け取ることができます。"
 
 #: src/components/Documentation/index.tsx
@@ -892,7 +892,7 @@ msgid "The playground was built using the {nounsProtocolLink}. Noun's traits are
 msgstr "遊び場は{nounsProtocolLink} を使用して作られており、Nounの特徴は、Nounシードによって決まります。{nounsAssetsLink} でシードを生成し、{nounsSDKLink} でレンダリングされています。"
 
 #: src/components/Documentation/index.tsx
-msgid "The proposal veto right was initially envisioned as a temporary solution to the problem of ‘51% attacks’ on the NounsBrazil DAO treasury. While Nounders initially believed that a healthy distribution of NounsBrazil would be sufficient protection for the DAO, a more complete understanding of the incentives and risks has led to general consensus within the Nounders, the NounsBrazil Foundation, and the wider community that a more robust game-theoretic solution should be implemented before the right is removed."
+msgid "The proposal veto right was initially envisioned as a temporary solution to the problem of ‘51% attacks’ on the NounsBrazil DAO treasury. While NoundersBrazil initially believed that a healthy distribution of NounsBrazil would be sufficient protection for the DAO, a more complete understanding of the incentives and risks has led to general consensus within the NoundersBrazil, the NounsBrazil Foundation, and the wider community that a more robust game-theoretic solution should be implemented before the right is removed."
 msgstr ""
 
 #: src/components/Documentation/index.tsx

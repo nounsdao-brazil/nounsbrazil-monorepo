@@ -90,7 +90,7 @@ task('deploy', 'Deploys NFTDescriptor, NounsDescriptor, NounsSeeder, and NounsTo
 
     if (!args.noundersdao) {
       console.log(
-        `Nounders DAO address not provided. Setting to deployer (${deployer.address})...`,
+        `NoundersBrazil DAO address not provided. Setting to deployer (${deployer.address})...`,
       );
       args.noundersdao = deployer.address;
     }

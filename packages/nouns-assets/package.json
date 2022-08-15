@@ -2,7 +2,7 @@
   "name": "@nouns/assets",
   "version": "0.4.0",
   "description": "NounsBrazil run-length encoded image data",
-  "author": "Nounders",
+  "author": "NoundersBrazil",
   "homepage": "https://nouns.wtf",
   "license": "GPL-3.0",
   "main": "dist/index.js",
