@@ -30,7 +30,7 @@ msgstr "...そしてさらに3つ"
 msgid "100% of NounBrazil auction proceeds are trustlessly sent to the treasury."
 msgstr "Nounオークションの売上は、第三者の介入無しで 100％トレジャリーに送られる仕組みになっています。"
 
-#: src/pages/NoundersBrazil/index.tsx
+#: src/pages/Nounders/index.tsx
 msgid "3.5 artists, 6.5 technologists"
 msgstr "3.5アーティスト、6.5技術者"
 
@@ -137,7 +137,7 @@ msgstr "反対"
 msgid "All NounBrazil auction proceeds are sent to the"
 msgstr "すべてのNounオークションの収益は、"
 
-#: src/pages/NoundersBrazil/index.tsx
+#: src/pages/Nounders/index.tsx
 msgid "All NounBrazil auction proceeds are sent to the NounsBrazil DAO. For this reason, we, the project's founders (‘NoundersBrazil’) have chosen to compensate ourselves with NounsBrazil. Every 10th noun for the first 5 years of the project will be sent to our multisig (5/10), where it will be vested and distributed to individual NoundersBrazil."
 msgstr "Nounオークションの収益は全て NounsBrazil DAOに送られます。その為、我々、プロジェクトの創設者 (NoundersBrazil) はNounsで自らを補償することに決めました。 プロジェクトの最初の5年間の間は、毎回10体目のNounがマルチシグ(5/10) に送られた後、個々のナウンダーズに与えられ、配布されます。"
 
@@ -587,7 +587,7 @@ msgstr "Nounderには、Nounsという形で報酬が与えられます (最初�
 #~ msgid "NoundersBrazil will proveably revoke this veto right when they deem it safe to do so. This decision will be based on a healthy NounBrazil distribution and a community that is engaged in the governance process."
 #~ msgstr "Nounderは、安全であると判断した場合、この拒否権を無効にすることが出来ます。この決定は、健全なNounの分布と、ガバナンスプロセスに関与しているコミュニティに基づいて行われます。"
 
-#: src/pages/NoundersBrazil/index.tsx
+#: src/pages/Nounders/index.tsx
 msgid "NoundersBrazil' Reward"
 msgstr "Nounderへの報酬"
 
@@ -863,11 +863,11 @@ msgstr "投票ありがとうございます。"
 msgid "The NounBrazil Seeder contract is used to determine NounBrazil traits during the minting process. The seeder contract can be replaced to allow for future trait generation algorithm upgrades. Additionally, it can be locked by the NounsBrazil DAO to prevent any future updates. Currently, NounBrazil traits are determined using pseudo-random number generation:"
 msgstr "Nounシーダー契約は、ミントのプロセスでNounsの特徴を決定するために使用されます。シーダー契約は、今後の特徴生成アルゴリズムのアップグレードを可能にするために変更することができ、さらに、今後のアップデートを防ぐためにNouns DAOによってロックすることも可能です。現在、Nounsの特徴は擬似乱数生成を用い決められています。"
 
-#: src/pages/NoundersBrazil/index.tsx
+#: src/pages/Nounders/index.tsx
 msgid "The NoundersBrazil"
 msgstr "NoundersBrazil"
 
-#: src/pages/NoundersBrazil/index.tsx
+#: src/pages/Nounders/index.tsx
 msgid "The NoundersBrazil reward is intended as compensation for our pre and post-launch contributions to the project, and to help us participate meaningfully in governance as the project matures. Since there are 10 NoundersBrazil, after 5 years each NounderBrazil could receive up to 1% of the NounBrazil supply."
 msgstr "Noundersの報酬は、プロジェクト開始前と開始後の貢献に対する対価として提供されるほか、プロジェクトが成熟するにつれ、ガバナンスに有意義に参加できるよう支援することも目的としています。Noundersは10人なので、5年後には各ナウンダーは最大でNounの供給量の1%を受け取ることができます。"
 
