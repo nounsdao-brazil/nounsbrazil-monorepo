@@ -56,9 +56,9 @@ task(
     `Noun contracts deployed to local node at http://localhost:8545 (Chain ID: ${chainId})`,
   );
   console.log(`Auction House Proxy address: ${contracts.NounsAuctionHouseProxy.instance.address}`);
-  console.log(`Nouns ERC721 address: ${contracts.NounsToken.instance.address}`);
-  console.log(`Nouns DAO Executor address: ${contracts.NounsDAOExecutor.instance.address}`);
-  console.log(`Nouns DAO Proxy address: ${contracts.NounsDAOProxy.instance.address}`);
+  console.log(`NounsBrazil ERC721 address: ${contracts.NounsToken.instance.address}`);
+  console.log(`NounsBrazil DAO Executor address: ${contracts.NounsDAOExecutor.instance.address}`);
+  console.log(`NounsBrazil DAO Proxy address: ${contracts.NounsDAOProxy.instance.address}`);
 
   await ethers.provider.send('evm_setIntervalMining', [12_000]);
 

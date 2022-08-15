@@ -30,7 +30,7 @@ export const twitter = new TwitterApi({
 export const jsonRpcProvider = new providers.JsonRpcProvider(config.jsonRpcUrl);
 
 /**
- * Nouns ERC721 Token Contract
+ * NounsBrazil ERC721 Token Contract
  */
 export const nounsTokenContract = new Contract(
   config.nounsTokenAddress,
@@ -57,7 +57,7 @@ export const publicDiscordWebhook = new Discord.WebhookClient(
 );
 
 /**
- * Increment one of the Nouns infra counters
+ * Increment one of the NounsBrazil infra counters
  * @param counterName counter name to increment
  * @returns
  */

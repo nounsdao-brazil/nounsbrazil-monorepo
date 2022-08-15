@@ -241,7 +241,7 @@ const Bid: React.FC<{
     placeBidState.status === 'Mining' || settleAuctionState.status === 'Mining' || !activeAccount;
 
   const fomoNounsBtnOnClickHandler = () => {
-    // Open Fomo Nouns in a new tab
+    // Open Fomo NounsBrazil in a new tab
     window.open('https://fomonouns.wtf', '_blank')?.focus();
   };
 
