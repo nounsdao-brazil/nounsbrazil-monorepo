@@ -48,7 +48,7 @@ const VotePage = ({
   const proposal = useProposal(id);
 
   const [showVoteModal, setShowVoteModal] = useState<boolean>(false);
-  // Toggle between Noun centric view and delegate view
+  // Toggle between NounBrazil centric view and delegate view
   const [isDelegateView, setIsDelegateView] = useState(false);
 
   const [isQueuePending, setQueuePending] = useState<boolean>(false);
@@ -302,7 +302,7 @@ const VotePage = ({
           className={classes.toggleDelegateVoteView}
         >
           {isDelegateView ? (
-            <Trans>Switch to Noun view</Trans>
+            <Trans>Switch to NounBrazil view</Trans>
           ) : (
             <Trans>Switch to delegate view</Trans>
           )}

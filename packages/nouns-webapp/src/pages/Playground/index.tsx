@@ -15,7 +15,7 @@ import Link from '../../components/Link';
 import { ImageData, getNounData, getRandomNounSeed } from '@nouns/assets';
 import { buildSVG, EncodedImage, PNGCollectionEncoder } from '@nouns/sdk';
 import InfoIcon from '../../assets/icons/Info.svg';
-import Noun from '../../components/Noun';
+import NounBrazil from '../../components/Noun';
 import NounModal from './NounModal';
 import { PNG } from 'pngjs';
 import { Trans } from '@lingui/macro';
@@ -35,7 +35,7 @@ interface PendingCustomTrait {
 const nounsProtocolLink = (
   <Link
     text={<Trans>NounsBrazil Protocol</Trans>}
-    url="https://www.notion.so/Noun-Protocol-32e4f0bf74fe433e927e2ea35e52a507"
+    url="https://www.notion.so/NounBrazil-Protocol-32e4f0bf74fe433e927e2ea35e52a507"
     leavesPage={true}
   />
 );
@@ -270,8 +270,8 @@ const Playground: React.FC = () => {
             </h1>
             <p>
               <Trans>
-                The playground was built using the {nounsProtocolLink}. Noun's traits are determined
-                by the Noun Seed. The seed was generated using {nounsAssetsLink} and rendered using
+                The playground was built using the {nounsProtocolLink}. NounBrazil's traits are determined
+                by the NounBrazil Seed. The seed was generated using {nounsAssetsLink} and rendered using
                 the {nounsSDKLink}.
               </Trans>
             </p>
