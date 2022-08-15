@@ -15,7 +15,7 @@ import Link from '../../components/Link';
 import { ImageData, getNounData, getRandomNounSeed } from '@nouns/assets';
 import { buildSVG, EncodedImage, PNGCollectionEncoder } from '@nouns/sdk';
 import InfoIcon from '../../assets/icons/Info.svg';
-import NounBrazil from '../../components/Noun';
+import Noun from '../../components/Noun';
 import NounModal from './NounModal';
 import { PNG } from 'pngjs';
 import { Trans } from '@lingui/macro';
@@ -34,8 +34,8 @@ interface PendingCustomTrait {
 
 const nounsProtocolLink = (
   <Link
-    text={<Trans>NounsBrazil Protocol</Trans>}
-    url="https://www.notion.so/NounBrazil-Protocol-32e4f0bf74fe433e927e2ea35e52a507"
+    text={<Trans>Nouns Protocol</Trans>}
+    url="https://www.notion.so/Noun-Protocol-32e4f0bf74fe433e927e2ea35e52a507"
     leavesPage={true}
   />
 );
